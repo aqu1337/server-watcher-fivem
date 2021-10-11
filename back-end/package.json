@@ -1,0 +1,25 @@
+{
+  "name": "hypernovus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "delay": "^5.0.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "isomorphic-fetch": "^3.0.0",
+    "json-server": "^0.16.3",
+    "jsonpath": "^1.1.1",
+    "signale": "^1.4.0",
+    "tcp-ping": "^0.1.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
